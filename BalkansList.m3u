@@ -3,7 +3,7 @@
 http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/225303.ts
 #EXTINF:-1 tvg-chno="2" tvg-id="Al.Jazeera.Balkans.HD.ba" tvg-name="Al Jazeera Balkans HD v2" tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="Bosnia and Herzegovina",Al Jazeera Balkans HD v2
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="bht1.ba" tvg-name="BHT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" group-title="Bosnia and Herzegovina",BHT 1 HD
+#EXTINF:-1 tvg-chno="3" tvg-id="BHT.1.HD.ba" tvg-name="BHT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" group-title="Bosnia and Herzegovina",BHT 1 HD
 http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/104273
 #EXTINF:-1 tvg-chno="4" tvg-id="(no tvg-id)" tvg-name="BHT 1 HD v2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" group-title="Bosnia and Herzegovina",BHT 1 HD v2
 http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/188392.ts
