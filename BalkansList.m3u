@@ -53,3 +53,5 @@ http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/188465.ts
 http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/104286
 #EXTINF:-1 tvg-chno="8" tvg-id="OBN(src01).hr" tvg-name="OBN v2" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/thumb/e/e1/OBN_TV_channel.svg/800px-OBN_TV_channel.svg.png" group-title="Bosnia and Herzegovina",OBN v2
 http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/188471.ts
+#EXTINF:-1 tvg-chno="8" tvg-id="OBN(src01).hr" tvg-name="RTCG 2" tvg-logo="https://n1info.rs/wp-content/uploads/2024/04/11/1712854447-RTCG-2-750x422.png" group-title="Bosnia and Herzegovina",RTCG 2
+https://proxy1.rtcg.me:1936/cg2/smil:cg2.smil/cg2.m3u8
