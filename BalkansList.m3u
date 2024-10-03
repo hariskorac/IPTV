@@ -1,57 +1,15 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/69wkng7m84hvq1xjnq8g"
-#EXTINF:-1 tvg-chno="1" tvg-id="AlJazeeraBalkans(Bosnian).de" tvg-name="Al Jazeera Balkans HD" tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="Bosnia and Herzegovina",Al Jazeera Balkans HD
-http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/225303.ts
-#EXTINF:-1 tvg-chno="2" tvg-id="AlJazeeraBalkans(Bosnian).de" tvg-name="Al Jazeera Balkans HD v2" tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="Bosnia and Herzegovina",Al Jazeera Balkans HD v2
-https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="BHT1(src01).rs" tvg-name="BHT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" group-title="Bosnia and Herzegovina",BHT 1 HD
-http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/104273
-#EXTINF:-1 tvg-chno="4" tvg-id="BHT1(src01).rs" tvg-name="BHT 1 HD v2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" group-title="Bosnia and Herzegovina",BHT 1 HD v2
-http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/188392.ts
-#EXTINF:-1 tvg-id="BN(src01).ba" tvg-name="BN 1" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="Bosnia and Herzegovina",BN 1
-http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/104288
-#EXTINF:-1 tvg-chno="5" tvg-id="BN(src01).ba" tvg-name="BN 1 v2" tvg-logo="https://i.imgur.com/DUBvfWb.png" group-title="Bosnia and Herzegovina",BN 1 v2
-https://rtvbn.tv:8080/live/index.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="BN2(src01).rs" tvg-name="BN 2 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/BN_2_HD_BA_logo.png" group-title="Bosnia and Herzegovina",BN 2 HD
-http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/104289
-#EXTINF:-1 tvg-id="FaceTV(src01).hr" tvg-name="FACE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bs/8/84/Facetvhd.jpg" group-title="Bosnia and Herzegovina",FACE TV
-http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/104281
-#EXTINF:-1 tvg-id="FaceTV(src01).hr" tvg-name="FACE TV v2" tvg-logo="https://upload.wikimedia.org/wikipedia/bs/8/84/Facetvhd.jpg" group-title="Bosnia and Herzegovina",FACE TV v2
-http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/222651.ts
-#EXTINF:-1 tvg-id="FederalnaTV(src01).si" tvg-name="Federalna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/FederalnaTV_2014-present.jpg/640px-FederalnaTV_2014-present.jpg" group-title="Bosnia and Herzegovina",Federalna TV
-http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/311788
-#EXTINF:-1 tvg-id="FederalnaTV(src01).si" tvg-name="FEDERALNA TV v2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/FederalnaTV_2014-present.jpg/640px-FederalnaTV_2014-present.jpg" group-title="Bosnia and Herzegovina",FEDERALNA TV v2
-http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/188418.ts
-#EXTINF:-1 tvg-chno="11" tvg-id="HayatTV(src01).hr" tvg-name="HAYAT HD" tvg-logo="https://tvprofil.com/img/kanali-logo/hayat-hd_logo.png?1550490028" group-title="Bosnia and Herzegovina",HAYAT HD
-http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/104276
-#EXTINF:-1 tvg-id="HayatTV(src01).hr" tvg-name="HAYAT HD v2" tvg-logo="https://tvprofil.com/img/kanali-logo/hayat-hd_logo.png?1550490028" group-title="Bosnia and Herzegovina",HAYAT HD v2
-http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/225406.ts
-#EXTINF:-1 tvg-id="HayatPlus(src01).ba" tvg-name="HAYAT 2 HD" tvg-logo="https://backend.hayat.ba/logos/atv/black/plus.png" group-title="Bosnia and Herzegovina",HAYAT 2 HD
-http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/1445657
-#EXTINF:-1 tvg-id="HayatFolk(src01).ba" tvg-name="HAYAT FOLK BOX HD" tvg-logo="https://backend.hayat.ba/logos/atv/black/folk.png" group-title="Bosnia and Herzegovina",HAYAT FOLK BOX HD
-http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/1445658
-#EXTINF:-1 tvg-id="HayatFolk(src01).ba" tvg-name="HAYAT FOLK BOX HD v2" tvg-logo="https://backend.hayat.ba/logos/atv/black/folk.png" group-title="Bosnia and Herzegovina",HAYAT FOLK BOX HD v2
-http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/188428.ts
-#EXTINF:-1 tvg-id="HayatFolk(src01).ba" tvg-name="HAYAT FOLK BOX HD v3" tvg-logo="https://backend.hayat.ba/logos/atv/black/folk.png" group-title="Bosnia and Herzegovina",HAYAT FOLK BOX HD v3
-http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/225405.ts
-#EXTINF:-1 tvg-id="HayatMusic(src01).ba" tvg-name="HAYAT MUSIC BOX HD" tvg-logo="https://backend.hayat.ba/logos/atv/black/music.png" group-title="Bosnia and Herzegovina",HAYAT MUSIC BOX HD
-http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/1445659
-#EXTINF:-1 tvg-id="HayatMusic(src01).ba" tvg-name="HAYAT MUSIC BOX HD v2" tvg-logo="https://backend.hayat.ba/logos/atv/black/music.png" group-title="Bosnia and Herzegovina",HAYAT MUSIC BOX HD v2
-http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/188431.ts
-#EXTINF:-1 tvg-id="HayatPlus(src01).ba" tvg-name="HAYAT PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Hayat_Plus.jpg" group-title="Bosnia and Herzegovina",HAYAT PLUS
-http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/104278
-#EXTINF:-1 tvg-id="Hayatovci(src01).ba" tvg-name="HAYATOVCI" tvg-logo="https://backend.hayat.ba/logos/atv/black/hayatovci.png" group-title="Bosnia and Herzegovina",HAYATOVCI
-http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/104447
-#EXTINF:-1 tvg-id="Hayatovci(src01).ba" tvg-name="HAYATOVCI 2" tvg-logo="https://backend.hayat.ba/logos/atv/black/hayatovci.png" group-title="Bosnia and Herzegovina",HAYATOVCI 2
-http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/188433.ts
-#EXTINF:-1 tvg-id="N1(BH)(src01).ba" tvg-name="N1 Bosna" tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/03/n1-hd-bh.png" group-title="Bosnia and Herzegovina",N1 Bosna
-http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/104287
-#EXTINF:-1 tvg-chno="9" tvg-id="NovaBH(src01).ba" tvg-name="Nova BH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Nova_BH_2021_logo.svg/480px-Nova_BH_2021_logo.svg.png" group-title="Bosnia and Herzegovina",Nova BH FHD
-http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/104279
-#EXTINF:-1 tvg-chno="10" tvg-id="NovaBH(src01).ba" tvg-name="Nova BH v2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Nova_BH_2021_logo.svg/480px-Nova_BH_2021_logo.svg.png" group-title="Bosnia and Herzegovina",Nova BH v2
-http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/188465.ts
-#EXTINF:-1 tvg-chno="7" tvg-id="OBN(src01).hr" tvg-name="OBN" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/thumb/e/e1/OBN_TV_channel.svg/800px-OBN_TV_channel.svg.png" group-title="Bosnia and Herzegovina",OBN
-http://line.my-pro.cc:80/VY8RV2JX4M/TBRCCQKHDR/104286
-#EXTINF:-1 tvg-chno="8" tvg-id="OBN(src01).hr" tvg-name="OBN v2" tvg-logo="https://upload.wikimedia.org/wikipedia/sr/thumb/e/e1/OBN_TV_channel.svg/800px-OBN_TV_channel.svg.png" group-title="Bosnia and Herzegovina",OBN v2
-http://line.kemotv.cc:80/2KqWcNGEQs/tvH6wnw3C3/188471.ts
-#EXTINF:-1 tvg-chno="8" tvg-id="OBN(src01).hr" tvg-name="RTCG 2" tvg-logo="https://n1info.rs/wp-content/uploads/2024/04/11/1712854447-RTCG-2-750x422.png" group-title="Bosnia and Herzegovina",RTCG 2
-https://proxy1.rtcg.me:1936/cg2/smil:cg2.smil/cg2.m3u8
+#EXTM3U url-tvg="http://m3u4u.com/epg/xe47yzer3zhp28pjn9vq"
+#EXTINF:-1 tvg-id="TVCG1(Serbian).ch" tvg-name="RTCG 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/TVCG_1_2024_logo_with_wordmark.svg/revision/latest?cb=20240406174721" group-title="Crna Gora (Montenegro)" parent-code="MNE",RTCG 1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTCG2(src01).hr" tvg-name="RTCG 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/TVCG_2_2024_logo_with_wordmark.svg/revision/latest?cb=20240406175439" group-title="Crna Gora (Montenegro)" parent-code="MNE",RTCG 2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTCG 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/TVCG3_2024_logo_with_wordmark.svg/revision/latest?cb=20240406175626" group-title="Crna Gora (Montenegro)" parent-code="MNE",RTCG 3
+https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVCG MNE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/TVCG_MNE_2024_logo.svg/revision/latest?cb=20240406171908" group-title="Crna Gora (Montenegro)" parent-code="MNE",TVCG MNE
+http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV 7" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Televizija_TV7_ME_logo.png?1631624169" group-title="Crna Gora (Montenegro)" parent-code="MNE",TV 7
+http://uk4.streamingpulse.com:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Rozaje" tvg-logo="https://www.radiorozaje.me/wp-content/uploads/2022/04/logo-1.png" group-title="Crna Gora (Montenegro)" parent-code="MNE",RTV Rozaje
+https://glb.bozztv.com/glb/ssh101/tvrozaje/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Teuta" tvg-logo="https://lh4.googleusercontent.com/proxy/G6lZZkNOKOP_ycOW7SZxONpEs7PimtfnjMeCb6ZJYWDr_jOFNq1tWk8l546Lodc5ihcbLb_KBLAXLyaFKwVK5Z8RKek8iEAowv303yWnDgWXhLEF" group-title="Crna Gora (Montenegro)" parent-code="MNE",TV Teuta
+https://teutastream.com/tvteuta/tracks-v1a1/mono.m3u8
